@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavik! 👋
 
-I'm a 2nd-year Computer Engineering student passionate about building innovative solutions and contributing to the tech community. Welcome to my GitHub profile! Here, you'll find a showcase of my projects and a bit about myself.
+I'm a 3nd-year Computer Engineering student passionate about building innovative solutions and contributing to the tech community. Welcome to my GitHub profile! Here, you'll find a showcase of my projects and a bit about myself.
 
 ## About Me ℹ️
 
