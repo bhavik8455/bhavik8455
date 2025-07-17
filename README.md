@@ -36,7 +36,7 @@
 - Real-time editing capabilities
 
 🌐 [Live Demo](https://pulpx.vercel.app) | 
-📂 [Source Code](https://github.com/bhavik8455/PULP)
+📂 [Source Code](https://github.com/bhavik8455/pulp)
 
 ### 🥈 2nd Prize - Edu_Web Educational Platform
 **Django + PostgreSQL**
