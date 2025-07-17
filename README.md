@@ -39,7 +39,7 @@
 📂 [Source Code](https://github.com/bhavik8455/pulp)
 
 ### 🥈 2nd Prize - Edu_Web Educational Platform
-**Django + PostgreSQL**
+**html/css + php + mysql**
 - Complete LMS with tutor/student portals
 - Video course management system
 - Playlist saving functionality
@@ -47,7 +47,7 @@
 🌐 [Live Demo](http://gurukul.infinityfreeapp.com/home.php)
 
 ### 🥈 2nd Prize - VoteSphere Cloud Voting System
-**AWS + React + Django**
+*Django + Postgress **
 - Secure cloud-based voting platform
 - Real-time results visualization
 - Fraud detection mechanisms
