@@ -45,6 +45,7 @@
 - Playlist saving functionality
 
 🌐 [Live Demo](http://gurukul.infinityfreeapp.com/home.php)
+📂 [Source Code](https://github.com/bhavik8455/Gurukul-Website)
 
 ### 🥈 2nd Prize - VoteSphere Cloud Voting System
 *Django + Postgress **
@@ -52,7 +53,7 @@
 - Real-time results visualization
 - Fraud detection mechanisms
 
-🔗 [Project Details](#) *(Coming Soon)*
+📂 [Source Code](https://github.com/bhavik8455/VoteSphere-Cloud-Based-voting-project)
 
 ## 🚀 Other Notable Projects
 
