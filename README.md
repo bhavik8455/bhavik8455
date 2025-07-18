@@ -53,6 +53,18 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik8455&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavik8455&show_icons=true&theme=radical&hide_border=true" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavik8455&theme=radical&hide_border=true" /></p>
+
+---
+
 <h3 align="left">🏆 Highlight Projects:</h3>
 
 ### 🥇 PULP - Text/Image Sharing Platform  
@@ -77,14 +89,4 @@
 **Java Swing + MySQL**  
 [📂 View Project](https://github.com/bhavik8455/PirateX)
 
----
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik8455&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavik8455&show_icons=true&theme=radical&hide_border=true" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavik8455&theme=radical&hide_border=true" /></p>
