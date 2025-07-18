@@ -1,6 +1,6 @@
 ![MasterHead](https://www.paragyte.com/img/React_Banner.png)
 <h1 align="center">Hi 👋, I'm Bhavik Solanki</h1>
-<h3 align="center">A Full-Stack Developer | Competitive Programmer | Cloud Enthusiast</h3>
+<h3 align="center">A Full-Stack Developer | Competitive Programmer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
