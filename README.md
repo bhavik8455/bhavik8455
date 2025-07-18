@@ -81,8 +81,3 @@
 - Advanced Cloud Architecture (AWS)
 - Microservices with Docker
 - Competitive Programming (DSA)
-
-## 🏅 Achievements
-- **1st Prize** - PULP Project (University Tech Fest 2023)
-- **2nd Prize** - Edu_Web (National Level Competition)
-- **2nd Prize** - VoteSphere (Cloud Computing Challenge)
