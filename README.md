@@ -65,28 +65,5 @@
 
 ---
 
-<h3 align="left">🏆 Highlight Projects:</h3>
-
-### 🥇 PULP - Text/Image Sharing Platform  
-**Next.js + Tailwind CSS + PostgreSQL**  
-[🔗 Live Demo](https://pulpx.vercel.app) | [📂 Source](https://github.com/bhavik8455/pulp)
-
----
-
-### 🥈 Edu_Web - Educational LMS  
-**HTML/CSS + PHP + MySQL**  
-[🔗 Live Demo](http://gurukul.infinityfreeapp.com/home.php) | [📂 Source](https://github.com/bhavik8455/Gurukul-Website)
-
----
-
-### 🏭 E-Commerce ERP System  
-**Java + MySQL**  
-[📂 View Project](https://github.com/bhavik8455/E-Commerce-Erp-System)
-
----
-
-### 📚 Library Management System  
-**Java Swing + MySQL**  
-[📂 View Project](https://github.com/bhavik8455/PirateX)
 
 
