@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on ** Rebuilding College Software with new Policies **   
 - 👯 I’m looking to collaborate on **Full-Stack and Cloud Projects**  
 - 💬 Ask me about ** Java, DSA, React, Next.js, Django**  
-- 🏆 1st Prize winner at **PULP - Content Sharing Platform**  
 - 📫 How to reach me **Solankibhavik92@gmail.com**
 
 ---
